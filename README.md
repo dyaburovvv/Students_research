@@ -1,4 +1,4 @@
 # Students research
 
-Промежуточный учебный проект, посвященный **исследованию данных** о студентах курсов, результатов их экзаменов и дат регистрации/окончания курса. Выполнение проекта позволило раскрыть **умения использования основных библиотек языка python, применения RFM-анализа для сегментации пользователей и самостоятельной интерпретации данных**, использующихся в проекте. Все вопросы, на которые пришлось ответить за время выполнения проекта указаны в **Jupiter Notebook**.
+Intermediate educational project dedicated to data analysis of course students, their exam results, and course registration/completion dates. The project execution allowed to demonstrate skills in using the main Python libraries, applying RFM analysis for user segmentation, and independently interpreting the data used in the project. All the questions that had to be answered during the project are specified in Jupiter Notebook.
 
